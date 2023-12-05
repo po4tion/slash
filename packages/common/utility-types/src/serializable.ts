@@ -1,5 +1,5 @@
 /** @tossdocs-ignore */
-type Primitive = undefined | null | boolean | number | symbol | string;
+type Primitive = undefined | null | boolean | number | string;
 
 export type Serializable =
   | Primitive

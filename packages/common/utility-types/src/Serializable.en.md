@@ -6,7 +6,6 @@ Indicates types that can be serialized as JSON.
 - null
 - boolean
 - number
-- symbol
 - string
 - Date
 - an object has `toJSON` method
